@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		909A29011E8588D5005D46DC /* uno.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = uno.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		909A28F61E8588A2005D46DC = {
 			isa = PBXGroup;
 			children = (
+				909A29011E8588D5005D46DC /* uno.py */,
 			);
 			sourceTree = "<group>";
 		};

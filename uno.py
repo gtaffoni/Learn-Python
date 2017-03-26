@@ -12,8 +12,6 @@ n = input("some integer value: ") # input from terminal
 
 print n
 
-# variable types are dynamically assigned
-
 n = "uno"
 
 print(n)
@@ -32,5 +30,24 @@ operands in python
     is, in, not in (membership operators)
 
 '''
+
+z=1+1j #complex number
+
+while abs(z)< 100:
+    z = z**2 + 1
+print z
+
+
+a = [1,0,2,4]
+for element in a:
+    if element  == 0:
+        continue
+    print 1./element
+
+message = 'hello there, how are you?'
+
+
+for word in message.split():
+    print (word)
 
 

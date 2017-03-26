@@ -8,12 +8,16 @@
 
 /* Begin PBXFileReference section */
 		909A29011E8588D5005D46DC /* uno.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = uno.py; sourceTree = "<group>"; };
+		90A6DC0B1E858AE000501E77 /* Trapezoidal.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Trapezoidal.py; sourceTree = "<group>"; };
+		90A6DC0D1E88585800501E77 /* Pi.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Pi.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		909A28F61E8588A2005D46DC = {
 			isa = PBXGroup;
 			children = (
+				90A6DC0D1E88585800501E77 /* Pi.py */,
+				90A6DC0B1E858AE000501E77 /* Trapezoidal.py */,
 				909A29011E8588D5005D46DC /* uno.py */,
 			);
 			sourceTree = "<group>";
@@ -189,6 +193,7 @@
 				909A29001E8588A2005D46DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

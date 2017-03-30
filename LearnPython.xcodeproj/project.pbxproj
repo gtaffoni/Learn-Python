@@ -7,18 +7,18 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		909A29011E8588D5005D46DC /* uno.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = uno.py; sourceTree = "<group>"; };
-		90A6DC0B1E858AE000501E77 /* Trapezoidal.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Trapezoidal.py; sourceTree = "<group>"; };
-		90A6DC0D1E88585800501E77 /* Pi.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Pi.py; sourceTree = "<group>"; };
+		901EDA7B1E8D4A7F00630C7D /* uno.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = uno.py; path = examples/uno.py; sourceTree = "<group>"; };
+		901EDA7C1E8D4A7F00630C7D /* Trapezoidal.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Trapezoidal.py; path = examples/Trapezoidal.py; sourceTree = "<group>"; };
+		901EDA7D1E8D4A7F00630C7D /* Pi.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Pi.py; path = examples/Pi.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		909A28F61E8588A2005D46DC = {
 			isa = PBXGroup;
 			children = (
-				90A6DC0D1E88585800501E77 /* Pi.py */,
-				90A6DC0B1E858AE000501E77 /* Trapezoidal.py */,
-				909A29011E8588D5005D46DC /* uno.py */,
+				901EDA7B1E8D4A7F00630C7D /* uno.py */,
+				901EDA7C1E8D4A7F00630C7D /* Trapezoidal.py */,
+				901EDA7D1E8D4A7F00630C7D /* Pi.py */,
 			);
 			sourceTree = "<group>";
 		};

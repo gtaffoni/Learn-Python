@@ -1,7 +1,18 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+#-----------------------------------------------------------------------------
+#
+#  Integrate01.py
+#  Learn Python
+#
+#  Created by giuliano taffoni on 15/03/17.
+#  Copyright 2017 Guliano Taffoni. All rights reserved.
+#
+# The full license is in the file LICENSE, distributed with this software.
+#-----------------------------------------------------------------------------
+
 '''
 
-  Usage: 
+  Usage:
   
         evaluate an intengral using the trapeziodal method
         

@@ -8,16 +8,26 @@
 
 /* Begin PBXFileReference section */
 		901EDA7B1E8D4A7F00630C7D /* uno.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = uno.py; path = examples/uno.py; sourceTree = "<group>"; };
-		901EDA7C1E8D4A7F00630C7D /* Trapezoidal.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Trapezoidal.py; path = examples/Trapezoidal.py; sourceTree = "<group>"; };
+		901EDA7C1E8D4A7F00630C7D /* Integrate.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Integrate.py; path = examples/Integrate.py; sourceTree = "<group>"; };
 		901EDA7D1E8D4A7F00630C7D /* Pi.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Pi.py; path = examples/Pi.py; sourceTree = "<group>"; };
+		901EDA7F1E8E496E00630C7D /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = main.py; path = examples/main.py; sourceTree = "<group>"; };
+		901EDA811E8E506C00630C7D /* variables01.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = variables01.py; path = examples/variables01.py; sourceTree = "<group>"; };
+		901EDA821E8E5AC000630C7D /* variables02.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = variables02.py; path = examples/variables02.py; sourceTree = "<group>"; };
+		901EDA831E8E5DD500630C7D /* Pi2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Pi2.py; path = examples/Pi2.py; sourceTree = "<group>"; };
+		901EDA841E8E619000630C7D /* Conversion01.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Conversion01.py; path = examples/Conversion01.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		909A28F61E8588A2005D46DC = {
 			isa = PBXGroup;
 			children = (
+				901EDA841E8E619000630C7D /* Conversion01.py */,
+				901EDA831E8E5DD500630C7D /* Pi2.py */,
+				901EDA821E8E5AC000630C7D /* variables02.py */,
+				901EDA811E8E506C00630C7D /* variables01.py */,
+				901EDA7F1E8E496E00630C7D /* main.py */,
 				901EDA7B1E8D4A7F00630C7D /* uno.py */,
-				901EDA7C1E8D4A7F00630C7D /* Trapezoidal.py */,
+				901EDA7C1E8D4A7F00630C7D /* Integrate.py */,
 				901EDA7D1E8D4A7F00630C7D /* Pi.py */,
 			);
 			sourceTree = "<group>";

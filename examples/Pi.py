@@ -1,12 +1,20 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+#-----------------------------------------------------------------------------
+#
+#  Pi.py
+#  Learn Python
+#
+#  Created by giuliano taffoni on 15/03/17.
+#  Copyright 2017 Guliano Taffoni. All rights reserved.
+#
+# The full license is in the file LICENSE, distributed with this software.
+#-----------------------------------------------------------------------------
 
 
 '''
     Usage:
         evalute PI using Wallis formula
 
-  Created by giuliano taffoni on 26/03/17.
-  Copyright 2017 giuliano taffoni. GPL3.
 
 '''
 
@@ -22,4 +30,5 @@ for i in range(1,n):
     pi =  pi * (4.*i**2/(4.*i**2-1.))
 
 print pi
+
 

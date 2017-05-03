@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		900CEE941EB9E6FF0094D0BA /* reduction.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = reduction.py; path = examples/reduction.py; sourceTree = "<group>"; };
+		900CEE951EB9E6FF0094D0BA /* fitsio.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = fitsio.py; path = examples/fitsio.py; sourceTree = "<group>"; };
 		901EDA7B1E8D4A7F00630C7D /* uno.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = uno.py; path = examples/uno.py; sourceTree = "<group>"; };
 		901EDA7C1E8D4A7F00630C7D /* Integrate.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Integrate.py; path = examples/Integrate.py; sourceTree = "<group>"; };
 		901EDA7D1E8D4A7F00630C7D /* Pi.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Pi.py; path = examples/Pi.py; sourceTree = "<group>"; };
@@ -21,6 +23,8 @@
 		909A28F61E8588A2005D46DC = {
 			isa = PBXGroup;
 			children = (
+				900CEE941EB9E6FF0094D0BA /* reduction.py */,
+				900CEE951EB9E6FF0094D0BA /* fitsio.py */,
 				901EDA841E8E619000630C7D /* Conversion01.py */,
 				901EDA831E8E5DD500630C7D /* Pi2.py */,
 				901EDA821E8E5AC000630C7D /* variables02.py */,

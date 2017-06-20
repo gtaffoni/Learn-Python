@@ -1,11 +1,18 @@
-#!/usr/bin/pyhton
-
+#!/usr/bin/env python
+#-----------------------------------------------------------------------------
+#
 #  fitsio.py
-#  
+#  Learn Python
 #
-#  Created by giuliano taffoni on 23/05/16.
+#  Created by giuliano taffoni on 15/03/17.
+#  Copyright 2017 Guliano Taffoni. All rights reserved.
 #
-
+# The full license is in the file LICENSE, distributed with this software.
+#-----------------------------------------------------------------------------
+'''
+    Example of usage of fitsio to read/create FITS files
+    
+    '''
 
 import pyfits
 import numpy as np

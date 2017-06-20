@@ -1,4 +1,4 @@
-:#
+#
 # importo i moduli che mi servono
 #
 import pyfits
@@ -10,13 +10,13 @@ plot.ion()
 # carico le immagini 
 #
 
-biases = np.array([pyfits.getdata("./BIAS/ima00%d.fits" % n) for n in range(10,17)])
+biases = np.array([pyfits.getdata("./DATA/BIAS/ima00%d.fits" % n) for n in range(10,17)])
 biases.shape
 
-flats = np.array([pyfits.getdata("./FLAT/ima00%02d.fits" % n) for n in range(8,16)])
+flats = np.array([pyfits.getdata("./DATA/FLAT/ima00%02d.fits" % n) for n in range(8,16)])
 flats.shape
 
-scidata = np.array([pyfits.getdata("./OBJ/ima0%03d.fits" % n) for n in range(1,211)])
+scidata = np.array([pyfits.getdata("./DATA/OBJ/ima0%03d.fits" % n) for n in range(1,211)])
 scidata.shape
 
 #
@@ -44,7 +44,7 @@ flat.shape
 # leggo i dati da ridurre carico 210 immagini
 #
 
-rawdata = np.array([pyfits.getdata("./OBJ/ima0%03d.fits" % n) for n in range(1,211)])
+rawdata = np.array([pyfits.getdata("./DATA/OBJ/ima0%03d.fits" % n) for n in range(1,211)])
 
 rawdata.shape 
 

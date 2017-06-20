@@ -17,12 +17,14 @@
 		901EDA821E8E5AC000630C7D /* variables02.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = variables02.py; path = examples/variables02.py; sourceTree = "<group>"; };
 		901EDA831E8E5DD500630C7D /* Pi2.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Pi2.py; path = examples/Pi2.py; sourceTree = "<group>"; };
 		901EDA841E8E619000630C7D /* Conversion01.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Conversion01.py; path = examples/Conversion01.py; sourceTree = "<group>"; };
+		908CDD7B1EF9299D002E05B4 /* Sphere_barycenter.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; name = Sphere_barycenter.py; path = examples/Sphere_barycenter.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		909A28F61E8588A2005D46DC = {
 			isa = PBXGroup;
 			children = (
+				908CDD7B1EF9299D002E05B4 /* Sphere_barycenter.py */,
 				900CEE941EB9E6FF0094D0BA /* reduction.py */,
 				900CEE951EB9E6FF0094D0BA /* fitsio.py */,
 				901EDA841E8E619000630C7D /* Conversion01.py */,

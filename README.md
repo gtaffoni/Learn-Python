@@ -10,3 +10,16 @@ Giuliano Taffoni
 Giuseppe Murante
 
 
+If you have any problem with your python installation, please install Anaconda from
+
+https://repo.continuum.io/archive/Anaconda2-X.X.X-Linux-x86_64.sh
+
+> source Anaconda2-X.X.X-Linux-x86_64.sh
+
+Then install the Astropy package
+
+
+
+
+
+
